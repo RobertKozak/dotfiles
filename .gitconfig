@@ -1,3 +1,5 @@
 [user]
 	email = rkozak@nowcom.com
 	name = Robert Kozak
+[push]
+	default = simple
