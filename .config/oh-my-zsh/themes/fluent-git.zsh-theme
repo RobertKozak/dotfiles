@@ -347,7 +347,7 @@ fluent_git(){
 
   RPROMPT=''
   PROMPT='
-%(?.${white_on_green}${TIMER_PROMPT}${green_on_white}.${white_on_red} $(echo $?) ${ERROR_SEPARATOR}${TIMER_PROMPT}${red_on_white})${black_on_white} %m ${white_on_darkblue} $B%n$b ${darkblue_on_blue}${white_on_blue}`_git_info`${darkblue_on_gray}${white_on_gray} %3~ ${reset}${gray}${reset}
+%(?.${white_on_green}${TIMER_PROMPT}${green_on_white}.${white_on_red} $(echo $?) ${ERROR_SEPARATOR}${TIMER_PROMPT}${red_on_white})${black_on_white} %M ${white_on_darkblue} $B%n$b ${darkblue_on_blue}${white_on_blue}`_git_info`${darkblue_on_gray}${white_on_gray} %3~ ${reset}${gray}${reset}
 ${cyan}$(__ssh_client)${reset}${yellow}$(__prompt)${reset} '
 }
 
