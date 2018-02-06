@@ -1,0 +1,7 @@
+repos
+.ssh
+.vault*
+.zsh-update
+.zsh_history
+.bash_history
+.sudo*

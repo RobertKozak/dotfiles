@@ -1,0 +1,1 @@
+so /home/rkozak/dotfiles/vim/vimrc.vim
