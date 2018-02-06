@@ -5,3 +5,5 @@ repos
 .zsh_history
 .bash_history
 .sudo*
+.oh-my-zsh/themes/
+.zcompdump*
